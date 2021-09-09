@@ -1,6 +1,5 @@
 
-## Ola! Eu sou o Cezar Cardoso !👋
-
+ ## Eu sou o Cezar Cardoso !👋
  <div>
   <a href="https://github.com/cezar-deev">
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=cezar-deev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
